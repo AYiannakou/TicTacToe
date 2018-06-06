@@ -1,4 +1,4 @@
-The Tic Tac Toe game can be played with a single user against the computer called.
+The Tic Tac Toe game can be played with a single user against the computer.
 
 # How to play the game:
 
